@@ -10,5 +10,7 @@ networkSecurity/components/__init__.py
 networkSecurity/constants/__init__.py
 networkSecurity/entity/__init__.py
 networkSecurity/exception/__init__.py
+networkSecurity/exception/exception.py
 networkSecurity/logging/__init__.py
+networkSecurity/logging/logger.py
 networkSecurity/pipeline/__init__.py
